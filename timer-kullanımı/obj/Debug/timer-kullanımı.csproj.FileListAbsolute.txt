@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\bin\Debug\timer-kullanımı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\bin\Debug\timer-kullanımı.exe
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\bin\Debug\timer-kullanımı.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\obj\Debug\timer-kullanımı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\obj\Debug\timer-kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\obj\Debug\timer_kullanımı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\obj\Debug\timer_kullanımı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\obj\Debug\timer-kullanımı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\obj\Debug\timer-kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\obj\Debug\timer-kullanımı.exe
+C:\Users\User\Desktop\KORUMASIZ\ntp\timer-kullanımı\timer-kullanımı\obj\Debug\timer-kullanımı.pdb
